@@ -1,4 +1,4 @@
-<img scr="/logo.png"><br>
+<img scr="https://raw.githubusercontent.com/samuraisudo/CopterScan/main/logo.png"><br>
 # CopterScan
 Это - простое приложение для поиска ближайших коптеров.<br>
 При использовании советую отключиться от WI-FI сетей и оставить вкл свой WI-FI, чтобы улучшить работу приложения.<br>
