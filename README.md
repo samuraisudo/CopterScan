@@ -13,3 +13,5 @@
 <pre>
 <b>check [Network name] - Работает независимо от того, что есть или нет в близи указанный коптер.</b><br>
 </pre>
+<br>
+Если CopterScan не находит коптер, то отправьте письмо на почту <a href="to:devsamuraisudo@gmail.com">devsamuraisudo@gmail.com</a> производителя и марку коптера. 
